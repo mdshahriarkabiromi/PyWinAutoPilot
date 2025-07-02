@@ -1,0 +1,26 @@
+# Python specific files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+*.egg-info/
+.mypy_cache/
+.pytest_cache/
+
+# Virtual environment
+venv/
+env/
+
+# Logs
+logs/automation.log
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific files (e.g., VS Code)
+.vscode/
