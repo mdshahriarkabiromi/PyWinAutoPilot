@@ -1,0 +1,5 @@
+pyautogui
+psutil
+pyperclip
+colorama
+# selenium # Uncomment if you plan to use web automation

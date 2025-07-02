@@ -1,0 +1,14 @@
+{
+    "frequent_apps": {
+        "vscode": "C:\\Users\\YourUser\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "postman": "C:\\Users\\YourUser\\AppData\\Local\\Postman\\Postman.exe"
+    },
+    "frequent_urls": {
+        "Google Search": "https://www.google.com",
+        "github": "https://github.com"
+    },
+    "favorite_folders": {
+        "projects": "C:\\Users\\YourUser\\Documents\\Projects",
+        "downloads": "C:\\Users\\YourUser\\Downloads"
+    }
+}

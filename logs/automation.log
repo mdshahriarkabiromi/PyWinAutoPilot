@@ -1,0 +1,32 @@
+2025-07-02 09:51:28,133 - INFO - PyWinAutoPilot started.
+2025-07-02 09:52:15,230 - INFO - Starting download organization for: E:\
+2025-07-02 09:52:15,230 - INFO - Skipping directory during organization: $RECYCLE.BIN
+2025-07-02 09:52:15,231 - INFO - Skipping directory during organization: course
+2025-07-02 09:53:54,623 - INFO - PyWinAutoPilot started.
+2025-07-02 09:54:05,742 - INFO - Starting download organization for: E:\
+2025-07-02 09:54:05,743 - INFO - Skipping directory during organization: $RECYCLE.BIN
+2025-07-02 09:54:05,743 - INFO - Skipping directory during organization: course
+2025-07-02 09:54:56,970 - INFO - PyWinAutoPilot started.
+2025-07-02 10:00:12,954 - INFO - PyWinAutoPilot started.
+2025-07-02 10:00:30,348 - INFO - Folder 'test' created at 'E:\'.
+2025-07-02 10:00:59,605 - INFO - Starting download organization for: E:\
+2025-07-02 10:00:59,605 - INFO - Skipping directory during organization: $RECYCLE.BIN
+2025-07-02 10:00:59,605 - INFO - Skipping directory during organization: course
+2025-07-02 10:00:59,606 - WARNING - Permission denied while moving 'DumpStack.log.tmp'.
+2025-07-02 10:00:59,606 - INFO - Skipping directory during organization: Forza Horizon 4
+2025-07-02 10:00:59,607 - INFO - Skipping directory during organization: Installation
+2025-07-02 10:00:59,607 - INFO - Skipping directory during organization: movie
+2025-07-02 10:00:59,607 - INFO - Skipping directory during organization: OneDrive
+2025-07-02 10:00:59,608 - INFO - Skipping directory during organization: OneDriveTemp
+2025-07-02 10:00:59,608 - INFO - Skipping directory during organization: Others
+2025-07-02 10:00:59,608 - INFO - Skipping directory during organization: Riot Games
+2025-07-02 10:00:59,608 - INFO - Skipping directory during organization: Sekiro.Shadows.Die.Twice.GOTYE.REPACK-KaOs
+2025-07-02 10:00:59,609 - INFO - Skipping directory during organization: SteamLibrary
+2025-07-02 10:00:59,609 - INFO - Skipping directory during organization: System Volume Information
+2025-07-02 10:00:59,609 - INFO - Download organization complete.
+2025-07-02 10:01:27,164 - INFO - Listing running processes.
+2025-07-02 10:01:56,535 - INFO - Screenshot saved to: C:\Users\Shahriar\Pictures\PyWinAutoPilot_Screenshots\test.png
+2025-07-02 10:02:42,681 - INFO - PyWinAutoPilot exited.
+2025-07-02 10:07:58,204 - INFO - PyWinAutoPilot started.
+2025-07-02 10:08:31,689 - INFO - Opened web page: www.google.com
+2025-07-02 10:08:44,140 - INFO - PyWinAutoPilot exited.
