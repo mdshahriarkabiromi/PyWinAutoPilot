@@ -31,3 +31,9 @@ DEFAULT_MOUSE_DELAY = 0.1   # Delay after mouse actions
 
 # --- Web Automation Settings (if using Selenium) ---
 # CHROMEDRIVER_PATH = r'C:\path\to\your\chromedriver.exe' # Specify path to your browser driver
+
+# --- Web Automation Settings (if using Selenium) ---
+# CHROMEDRIVER_PATH = r'C:\path\to\your\chromedriver.exe' # Specify path to your browser driver
+
+# --- Web Automation Settings (if using Selenium) ---
+# CHROMEDRIVER_PATH = r'C:\path\to\your\chromedriver.exe' # Specify path to your browser driver
